@@ -1,0 +1,10 @@
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\bin\Debug\CopyPaste.exe.config
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\bin\Debug\CopyPaste.exe
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\bin\Debug\CopyPaste.pdb
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.Form1.resources
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.Properties.Resources.resources
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.csproj.GenerateResource.cache
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.csproj.CoreCompileInputs.cache
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.exe
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.pdb
+C:\Users\mazei\OneDrive\Desktop\Code\Programing Projects\C#\CopyPaste\obj\Debug\CopyPaste.csprojAssemblyReference.cache
